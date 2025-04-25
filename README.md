@@ -1,1 +1,2 @@
 # PRODIGY_WD_01
+Create an interactive navieation menu that changes color or style when scrolled or when hovering over a menu tem.The navigation menu should have a fixed position and be visible on all pages.Use HIML to structure the menu, CSS to style it, and JavaScript to interactivity.such as chenging the background color or font color of the menu when It is scrolled or when a menu tem is hovered over.
